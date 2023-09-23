@@ -1,0 +1,2 @@
+PROJECT_NAME := mq2_sensor
+include $(IDF_PATH)/make/project.mk
